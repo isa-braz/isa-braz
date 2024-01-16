@@ -1,4 +1,4 @@
-# Você pode escolher ler este README em / You can choose read this README in 
+# Você pode escolher ler este README em / You can choose to read this README in 
 # [Português](#portuguese) || [English](#english).
 
 ## Português
