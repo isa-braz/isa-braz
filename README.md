@@ -11,7 +11,7 @@ Bem-vinda(o) ao meu perfil do GitHub! Sou uma profissional de tecnologia com for
 - 📚 MBA em Gestão da Qualidade de Software (em andamento).
 - 🧠 Experiência em desenvolvimento Full Stack com ênfase em PHP e Javascript.
 - 🌐 Conhecimento em Bootstrap, jQuery, AJAX, HTML, CSS para criar interfaces incríveis.
-- 🛠️ Experiência em PostgreSQL, incluindo criação de procedures e triggers, além dos comandos SQL comuns.
+- 🛠️ Experiência em PostgreSQL, incluindo criação de procedures e triggers, além de DDL, DML, DQL, DTL e DCL.
 - 🚀 Familiaridade com MySQL para diversas aplicações de banco de dados.
 - 🔄 Prática em controle de versão com Git e hospedagem de projetos no GitHub.
 
