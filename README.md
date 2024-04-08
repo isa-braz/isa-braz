@@ -1,5 +1,5 @@
 
- ![Status](./profile-3d-contrib/profile-green-animate.svg)  
+ ![Status](./profile-3d-contrib/profile-night-green.svg)  
 
   
  | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=isa-braz&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=isa-braz&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
@@ -7,7 +7,7 @@
 
 <div align="center" >
     <a href="https://skillicons.dev"   >
-    <img src="https://skillicons.dev/icons?i=git,vscode,php,javascript,css,html,github,bootstrap,jquery,mysql,postgres,discord,linkedin,instagram" />
+    <img src="https://skillicons.dev/icons?i=git,vscode,php,javascript,css,html,github,bootstrap,jquery,mysql,postgres,discord,linkedin"/>
     </a>
     <br/>
 </div>
