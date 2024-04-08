@@ -1,7 +1,4 @@
-[![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=isa-braz&theme=apprentice)](https://github.com/isa-braz/github-profile-summary-cards) 
-
-| [![GitHub Top Languages](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=isa-braz&theme=apprentice)](https://github.com/isa-braz/github-profile-summary-cards) | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=isa-braz&theme=apprentice&utcOffset=3)](https://github.com/isa-braz/github-profile-summary-cards) |  
- | ----------- | ----------- |
+[![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=isa-braz&theme=codeSTACKr)](https://github.com/isa-braz/github-profile-summary-cards) 
 
 <div align="center" >
     <a href="https://skillicons.dev"   >
